@@ -1,0 +1,15 @@
+{
+  "name": "genpark-pii-secret-redaction-masking-skill",
+  "version": "1.0.0",
+  "description": "High-speed PII and secret redaction engine with reversible token vault and credential sanitization.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "pii",
+    "redaction",
+    "secret-masking",
+    "privacy",
+    "genpark",
+    "mcp"
+  ]
+}
